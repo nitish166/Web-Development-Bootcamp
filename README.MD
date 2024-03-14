@@ -65,3 +65,14 @@
 #By the end of this course, you will be fluently programming and be ready to make any website you can dream of.
 
 #You'll also build a portfolio of over 32+ websites that you can show off to any potential employer.
+
+#Paragraph
+
+- lipsum.com
+- baconipsum.com
+- broipsum.com
+- funny lorem ipsum (google)
+
+#devchecker - this website used for code comparasion 
+
+
