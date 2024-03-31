@@ -1,0 +1,10 @@
+2024-03-29 11:47:41,940 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2024-03-29 11:47:41,940 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\kniti\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\instabot\bot\bot.py
+2024-03-29 11:47:41,941 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2024-03-29 11:48:14,277 - instabot version: 0.117.0 (api) - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/get_prefill_candidates/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000198137FE260>, 'Connection to i.instagram.com timed out. (connect timeout=None)'))
+2024-03-29 11:48:36,220 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2024-03-29 11:48:58,097 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2024-03-29 11:49:20,092 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [429]>
+2024-03-29 11:49:20,092 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2024-03-29 11:49:20,092 - instabot version: 0.117.0 (api) - ERROR - Request returns 429 error!
+2024-03-29 11:49:20,092 - instabot version: 0.117.0 (api) - WARNING - That means 'too many requests'. I'll go to sleep for 5 minutes.
